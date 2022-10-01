@@ -2,6 +2,7 @@
 
 ## Our team
 
-| Name |  Github   |
-| :---:   | :---: |
+|   Name   |  Github   |
+|:--------:| :---: |
 | Randolph | [Link](https://github.com/randolphpark)   |
+|    Jo    | [Link](https://github.com/tuohuang-li)   |
