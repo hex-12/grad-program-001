@@ -6,9 +6,10 @@
 |:--------:| :---: |
 | Randolph | [Link](https://github.com/randolphpark)   |
 |    Jo    | [Link](https://github.com/tuohuang-li)   |
-
+|   Jian   | [Link](https://github.com/auslij)  |
 ## Our tech stack
 - JS
 - CSS
 - HTML
 - GIT
+- Linux cli
