@@ -12,4 +12,4 @@
 - CSS
 - HTML
 - GIT
-- NEXxT.js
+- NEXT.js
