@@ -6,6 +6,7 @@
 |:--------:| :---: |
 | Randolph | [Link](https://github.com/randolphpark)   |
 |    Jo    | [Link](https://github.com/tuohuang-li)   |
+|  Bailey  | [Link](https://github.com/BaileyS03)   |
 
 ## Our tech stack
 - JS
