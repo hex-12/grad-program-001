@@ -13,3 +13,4 @@
 - CSS
 - HTML
 - GIT
+- NEXT.js
